@@ -1,0 +1,27 @@
+image to html
+
+1350px
+================
+section define 5
+layout define
+code comment
+semantic markup
+common pattern......
+resouble block- html, css
+css code repatation avoid
+css heierki...
+     width
+     height
+     font-family
+     font size
+     font-weight
+     color
+     -----------
+     margin top
+     margin bottom
+     margin left
+     margin right
+     margin
+     padding
+
+
